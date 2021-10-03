@@ -1,0 +1,16 @@
+<strong></strong>
+<em></em>
+<u></u>
+<i></i>
+<pre></pre>
+<del></del>
+<s></s>
+<sup></sup>
+<sub></sub>
+<small></small>
+<mark></mark>
+<center></center>
+list(ordered,unordered,
+definition list)
+Definition list
+Tag: <dl>,<dt>,<dd>
